@@ -1,0 +1,23 @@
+{
+  "locatorList": [
+    {
+      "strategy": "XPath",
+      "value": "html/body/div[1]/main/div/div/div/div[2]/div/div[1]/form/div[3]/div[1]/input",
+      "active": true,
+      "status": true,
+      "type": []
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "b32e6d7d-8aa4-4e50-9ce6-027a8a7f084a"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "b32e6d7d-8aa4-4e50-9ce6-027a8a7f084a"
+}

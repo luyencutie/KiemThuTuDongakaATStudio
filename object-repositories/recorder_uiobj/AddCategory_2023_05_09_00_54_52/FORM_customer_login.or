@@ -1,0 +1,37 @@
+{
+  "locatorList": [
+    {
+      "strategy": "ID",
+      "value": "customer_login",
+      "active": true,
+      "status": true,
+      "type": []
+    },
+    {
+      "strategy": "XPath",
+      "value": "//form[@id\u003d\u0027customer_login\u0027]",
+      "active": true,
+      "status": true,
+      "type": []
+    },
+    {
+      "strategy": "XPath",
+      "value": "html/body/div[1]/main/div/div/div/div[2]/div/div[1]/form",
+      "active": true,
+      "status": true,
+      "type": []
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "16a2edb9-d1b8-4e19-8892-644dfb023e4a"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "16a2edb9-d1b8-4e19-8892-644dfb023e4a"
+}

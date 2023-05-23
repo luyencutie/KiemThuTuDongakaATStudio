@@ -1,0 +1,30 @@
+{
+  "locatorList": [
+    {
+      "strategy": "XPath",
+      "value": "//span[text()\u003d\u0027A00. DA TRẮNG SÁNG (mới)\u0027]",
+      "active": true,
+      "status": true,
+      "type": []
+    },
+    {
+      "strategy": "XPath",
+      "value": "html/body/div[1]/main/div[1]/div/div[2]/div/div[1]/div[2]/form/div[2]/div/div[2]/div[4]/label/span",
+      "active": true,
+      "status": true,
+      "type": []
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "5a67f312-911f-479b-bc86-0c75271ee94b"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "5a67f312-911f-479b-bc86-0c75271ee94b"
+}

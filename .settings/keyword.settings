@@ -1,0 +1,16 @@
+{
+  "customCatalogs": [
+    {
+      "id": "1",
+      "name": "Web Keywords",
+      "platform": "Web",
+      "source": "internal",
+      "keywords": [
+        {"uuid":"5d50a4ac-b803-4ed9-92d8-0560f26bbebf","name":"loginCMS: void","platform":{"type":"Web"},"objRepo":[],"params":[{"name":"email","type":"String","defaultValue":"","source":""},{"name":"password","type":"String","defaultValue":"","source":""}],"output":{"name":"","type":"void","defaultValue":""},"keywordPath":"LuyenTest.KeywordLogin","keywordSource":"custom","keywordMethod":"loginCMS","description":"Hàm login CMS","failureDescription":"","enable":true,"captureImg":false},
+        {"uuid":"f55997cf-21c2-41da-b820-3204b580a9f5","name":"LoginHa: void","platform":{"type":"Web"},"objRepo":[],"params":[{"name":"email","type":"String","defaultValue":"","source":""},{"name":"password","type":"String","defaultValue":"","source":""}],"output":{"name":"","type":"void","defaultValue":""},"keywordPath":"Hasaki.Login","keywordSource":"custom","keywordMethod":"LoginHa","description":"Ham input email, password\n","failureDescription":"","enable":true,"captureImg":false},
+        {"uuid":"081d1dea-e72d-4f2e-af90-ab1e87a97343","name":"SearchHa: void","platform":{"type":"Web"},"objRepo":[],"params":[{"name":"product","type":"String","defaultValue":"","source":""}],"output":{"name":"","type":"void","defaultValue":""},"keywordPath":"Hasaki.Search","keywordSource":"custom","keywordMethod":"SearchHa","description":"tim kiem san pham\n","failureDescription":"","enable":true,"captureImg":false}
+      ]
+    }
+  ],
+  "afterTcKws": []
+}

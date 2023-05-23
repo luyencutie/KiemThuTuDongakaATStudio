@@ -1,0 +1,23 @@
+{
+  "locatorList": [
+    {
+      "strategy": "XPath",
+      "value": "html/body/div/div/div[2]/div[3]/div[2]/div[2]/div/svg[3]",
+      "active": true,
+      "status": true,
+      "type": []
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "12ce8281-33f3-456d-8b6e-da1baa42f584"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "12ce8281-33f3-456d-8b6e-da1baa42f584"
+}
